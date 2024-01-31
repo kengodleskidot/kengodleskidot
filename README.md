@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on code to be used for transporation analysis in Snowflake
+🌱 I’m currently learning Snowflake, dbt, SQL and Python
 
 <!--
 **kengodleskidot/kengodleskidot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
